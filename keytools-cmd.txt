@@ -1,0 +1,20 @@
+C:\Users\ue\sanket\work\sts-work\spring-boot-https-demo>keytool -genkeypair -alias sanky -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore sanky.p12 -validity 3650
+Enter keystore password:
+Re-enter new password:
+What is your first and last name?
+  [Unknown]:  Sanket
+What is the name of your organizational unit?
+  [Unknown]:  sanky
+What is the name of your organization?
+  [Unknown]:  sanky
+What is the name of your City or Locality?
+  [Unknown]:  Pune
+What is the name of your State or Province?
+  [Unknown]:
+What is the two-letter country code for this unit?
+  [Unknown]:  IN
+Is CN=Sanket, OU=sanky, O=sanky, L=Pune, ST=Unknown, C=IN correct?
+  [no]:  Yes
+
+
+C:\Users\ue\sanket\work\sts-work\spring-boot-https-demo>
